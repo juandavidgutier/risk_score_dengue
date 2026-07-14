@@ -114,12 +114,12 @@ risk_score_dengue/
 │   └── ... (comparison plots)
 │
 ├── map/                               # Geographic data
-│   ├── MGN_MPIO_POLITICO_wgs84.shp / .shx / .dbf / .prj / .qmd  # Municipality boundaries
-│   ├── map_Colombia.shp / .shx / .dbf / .prj / .qmd             # Simplified country outline
-│   └── altitude.csv                   # Minimum municipal elevation
-│
-└── radiation_env/                     # Python virtual environment (local)
-    └── Scripts/ / Lib/
+   ├── MGN_MPIO_POLITICO_wgs84.shp / .shx / .dbf / .prj / .qmd  # Municipality boundaries
+   ├── map_Colombia.shp / .shx / .dbf / .prj / .qmd             # Simplified country outline
+   └── altitude.csv                   # Minimum municipal elevation
+
+
+
 ```
 
 ---
